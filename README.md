@@ -1,2 +1,2 @@
 # Ditch
-Creat and broadcast transactions to blockchain
+Create and broadcast transactions to Steem-based blockchains
